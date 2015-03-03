@@ -1,0 +1,7 @@
+.cabal-sandbox/
+cabal.sandbox.config
+dist/
+
+.hs_tags
+*.swp
+*.exe
